@@ -1,7 +1,9 @@
 # Welcome to the Laravel Bangladesh Community Meetup!
 
 🚀 **Date:** 2nd March  
+
 📍 **Venue:** East West University 
+
 🕒 **Time:** 2:30PM
 
 The Laravel Bangladesh Community is thrilled to invite you to our upcoming meetup, a gathering that promises to unite Laravel enthusiasts, developers, and technophiles from across the country. Whether you're a seasoned expert or just beginning your journey with Laravel, this event is the perfect opportunity to deepen your knowledge, share experiences, and network with fellow Laravel aficionados.
